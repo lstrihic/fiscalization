@@ -1165,12 +1165,6 @@ func (c *Client) SendWithRetry(ctx context.Context, req *RacunZahtjev) (*RacunOd
 - [EU eInvoicing - Croatia](https://ec.europa.eu/digital-building-blocks/sites/display/DIGITAL/eInvoicing+in+Croatia)
 - [HR CIUS Specifikacija](https://porezna.gov.hr/fiskalizacija/api/dokumenti/99)
 
-### Implementacije
-
-- [Cis.Fiscalization (.NET)](https://github.com/tgrospic/Cis.Fiscalization)
-- [Fisver Java API](https://fisver.eu/croatia/hr/)
-- [Evolva API](https://www.evolva.hr/hr/fiskalizacijski_api.html)
-
 ---
 
 *Dokument ažuriran: prosinac 2025*
