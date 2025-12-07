@@ -921,7 +921,7 @@ urn:cen.eu:en16931:2017#compliant#urn:mfin.gov.hr:cius-2025:1.0#conformant#urn:m
 ┌─────────────────────────────────────────────────────────────────┐
 │                         POS / ERP                               │
 │  ┌──────────────────────────────────────────────────────────┐   │
-│  │                    Fiskalizacijski modul                  │   │
+│  │                    Fiskalizacijski modul                 │   │
 │  │  ┌────────────┐  ┌────────────┐  ┌────────────────────┐  │   │
 │  │  │   ZKI      │  │   XML      │  │   Certifikati      │  │   │
 │  │  │ Generator  │  │ Signer     │  │   Manager          │  │   │
@@ -931,10 +931,10 @@ urn:cen.eu:en16931:2017#compliant#urn:mfin.gov.hr:cius-2025:1.0#conformant#urn:m
 │  │  │  Client    │  │ Generator  │  │   Queue            │  │   │
 │  │  └────────────┘  └────────────┘  └────────────────────┘  │   │
 │  └──────────────────────────────────────────────────────────┘   │
-│                              │                                   │
-│                              ▼                                   │
+│                              │                                  │
+│                              ▼                                  │
 │  ┌──────────────────────────────────────────────────────────┐   │
-│  │                    eRačun modul (F2)                      │   │
+│  │                    eRačun modul (F2)                     │   │
 │  │  ┌────────────┐  ┌────────────┐  ┌────────────────────┐  │   │
 │  │  │   UBL      │  │   KPD      │  │   Informacijski    │  │   │
 │  │  │ Generator  │  │ Mapper     │  │   posrednik        │  │   │
